@@ -1,8 +1,8 @@
 def plus_two(num)
 	num + 2
 	num
-end   
+end 
+num = 3
+num + 2
 
-sum=num + 2
-	return sum
 end
